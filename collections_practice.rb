@@ -46,5 +46,9 @@ def sum_array(array)
 end
 
 def add_s(array)
-   array.insert(0, )
+   array.each do |s|
+     if array[s]
+       
+    else
+      
 end
